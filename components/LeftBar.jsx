@@ -478,35 +478,13 @@ const Main = forwardRef(
             </PopoverTrigger>
             <PopoverContent mt="-16px" color="#fff" bg="#333" fontSize="sm">
               <PopoverHeader fontWeight="semibold">
-                Feedback or ideas? Write me!
+                Additional Details
               </PopoverHeader>
               <PopoverCloseButton bg="#9147ff" />
               <PopoverBody>
-                Discord:{" "}
-                <Link
-                  color="#b482ff"
-                  href="https://discordapp.com/users/156165203619348480"
-                >
-                  Filodream
-                </Link>
+                  Current Site Modified/Created by Radiant Gaming
                 <br />
-                Twitter:{" "}
-                <Link color="#b482ff" href="https://twitter.com/NicolaGenesin">
-                  @NicolaGenesin
-                </Link>
-                <br />
-                Github:{" "}
-                <Link color="#b482ff" href="https://github.com/NicolaGenesin">
-                  NicolaGenesin
-                </Link>
-                <br />
-                Reddit:{" "}
-                <Link
-                  color="#b482ff"
-                  href="https://www.reddit.com/message/compose/?to=1911z"
-                >
-                  1911z
-                </Link>
+                  Original platform created by: NicolaGenesin
                 <br />
               </PopoverBody>
             </PopoverContent>
