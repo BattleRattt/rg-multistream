@@ -140,7 +140,7 @@ const Main = forwardRef(
               _hover={{
                 transform: "translate(8%, -2%)",
                 boxShadow:
-                  "-1px 1px  #9147ff, -2px 2px  #9147ff, -3px 3px  #9147ff, -4px 4px  #9147ff",
+                  "-1px 1px  #FCFF47, -2px 2px  #FCFF47, -3px 3px  #FCFF47, -4px 4px  #FCFF47",
               }}
               style={{
                 transition: "0.2s ease",
@@ -231,7 +231,7 @@ const Main = forwardRef(
                   _hover={{
                     transform: "translate(8%, -2%)",
                     boxShadow:
-                      "-1px 1px  #9147ff, -2px 2px  #9147ff, -3px 3px  #9147ff, -4px 4px  #9147ff",
+                      "-1px 1px  #FCFF47, -2px 2px  #FCFF47, -3px 3px  #FCFF47, -4px 4px  #FCFF47",
                   }}
                   style={{
                     transition: "0.2s ease",
@@ -282,7 +282,7 @@ const Main = forwardRef(
                   _hover={{
                     transform: "translate(8%, -2%)",
                     boxShadow:
-                      "-1px 1px  #9147ff, -2px 2px  #9147ff, -3px 3px  #9147ff, -4px 4px  #9147ff",
+                      "-1px 1px  #FCFF47, -2px 2px  #FCFF47, -3px 3px  #FCFF47, -4px 4px  #FCFF47",
                   }}
                   style={{
                     transition: "0.2s ease",
@@ -329,7 +329,7 @@ const Main = forwardRef(
               _hover={{
                 transform: "translate(8%, -2%)",
                 boxShadow:
-                  "-1px 1px  #9147ff, -2px 2px  #9147ff, -3px 3px  #9147ff, -4px 4px  #9147ff",
+                  "-1px 1px  #FCFF47, -2px 2px  #FCFF47, -3px 3px  #FCFF47, -4px 4px  #FCFF47",
               }}
               style={{
                 transition: "0.2s ease",
@@ -379,7 +379,7 @@ const Main = forwardRef(
                     _hover={{
                       transform: "translate(8%, -2%)",
                       boxShadow:
-                        "-1px 1px  #9147ff, -2px 2px  #9147ff, -3px 3px  #9147ff, -4px 4px  #9147ff",
+                        "-1px 1px  #FCFF47, -2px 2px  #FCFF47, -3px 3px  #FCFF47, -4px 4px  #FCFF47",
                     }}
                     style={{
                       transition: "0.2s ease",
@@ -409,7 +409,7 @@ const Main = forwardRef(
                     _hover={{
                       transform: "translate(8%, -2%)",
                       boxShadow:
-                        "-1px 1px  #9147ff, -2px 2px  #9147ff, -3px 3px  #9147ff, -4px 4px  #9147ff",
+                        "-1px 1px  #FCFF47, -2px 2px  #FCFF47, -3px 3px  #FCFF47, -4px 4px  #FCFF47",
                     }}
                     style={{
                       transition: "0.2s ease",
