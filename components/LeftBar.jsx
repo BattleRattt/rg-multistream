@@ -482,10 +482,15 @@ const Main = forwardRef(
               </PopoverHeader>
               <PopoverCloseButton bg="#9147ff" />
               <PopoverBody>
-                  Current Site Modified/Created by Radiant Gaming
+                  Current Site Modified/Created by: 
                 <br />
-                  Original platform created by: NicolaGenesin
+                  Radiant Gaming
                 <br />
+                <br />
+                  Original platform created by:
+                <br />
+                  NicolaGenesin
+                <br />            
               </PopoverBody>
             </PopoverContent>
           </Popover>
