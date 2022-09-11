@@ -14,7 +14,6 @@ export const SubscribeForm = (props) => (
   <chakra.form {...props} onSubmit={(e) => e.preventDefault()}>
     <Stack spacing="4">
       
-      </Stack>
     </Stack>
   </chakra.form>
 );
