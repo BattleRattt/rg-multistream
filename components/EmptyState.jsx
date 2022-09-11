@@ -103,7 +103,7 @@ const Main = ({ action, setStreamersList }) => {
           </Heading>
           {groups.map((group) => (
             <Link
-              href={`https://multistream.gg/${group
+              href={`https://streams.radiant-gaming.com/${group
                 .map((streamer) => streamer.user_login)
                 .join("/")}`}
               style={{ textDecoration: "none" }}
