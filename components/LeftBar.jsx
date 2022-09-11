@@ -85,7 +85,7 @@ const Main = forwardRef(
 
     useEffect(() => {
       const handleRouteChange = (url) => {
-        setShareURL(`https://multistream.gg${url}`);
+        setShareURL(`https://streams.radiant-gaming.com${url}`);
 
         try {
           console.log(`[GA] Send ${url} pageview`);
@@ -452,7 +452,7 @@ const Main = forwardRef(
                     fontWeight="semibold"
                     letterSpacing="wide"
                   >
-                    MULTISTREAM.GG
+                    RADIANT-GAMING.COM
                   </Text>
                 </div>
                 <Spacer />
