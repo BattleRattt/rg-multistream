@@ -13,7 +13,6 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" />
         </Head>
         <body>
           <Main />
