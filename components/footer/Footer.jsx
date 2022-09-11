@@ -26,7 +26,14 @@ const Main = () => (
       mt="5%"
     >
       <Stack spacing="10" divider={<StackDivider />}>
-        
+        <Stack
+          direction={{ base: "column-reverse", md: "row" }}
+          justifyContent="space-between"
+          alignItems="center"
+        >
+          <Copyright />
+          <SocialMediaLinks />
+        </Stack>
       </Stack>
     </Box>
   </Box>
