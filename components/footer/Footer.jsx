@@ -12,7 +12,7 @@ import {
 import { Copyright } from "./Copyright";
 import { LinkGrid } from "./LinkGrid";
 import { SocialMediaLinks } from "./SocialMediaLinks";
-import { SubscribeForm } from "./SubscribeForm";
+// import { SubscribeForm } from "./SubscribeForm";
 
 const Main = () => (
   <Box bg="gray.700">
@@ -36,7 +36,7 @@ const Main = () => (
             spacing={{ base: "10", md: "20" }}
           >
             <LinkGrid spacing={{ base: "10", md: "20", lg: "28" }} flex="1" />
-            <SubscribeForm width={{ base: "full", md: "sm" }} />
+//             <SubscribeForm width={{ base: "full", md: "sm" }} />
           </Stack>
         </Stack>
         Í
