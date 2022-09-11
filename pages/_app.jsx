@@ -15,21 +15,21 @@ const App = ({ Component, pageProps }) => (
     <Fonts />
     <Head>
       <title>
-        Streams - Radiant Gaming - Watch multiple Twitch streams on your screen!
+        Streams - Radiant Gaming - Watch multiple Twitch streams on one page!
       </title>
       <link rel="icon" href="/favicon.ico" />
       <meta
         name="description"
-        content="Watch multiple Twitch streams on your screen!"
+        content="Watch multiple Twitch streams on one page!"
       />
 
       {/* <!-- Google / Search Engine Tags --> */}
       <meta itemProp="name" content="Streams - Radiant Gaming" />
       <meta
         itemProp="description"
-        content="Watch multiple Twitch streams on your screen!"
+        content="Watch multiple Twitch streams on one page!"
       />
-      <meta itemProp="image" content="http://multistream.gg/assets/og-01.jpg" />
+      <meta itemProp="image" content="https://streams.radiant-gaming.com/assets/og-01.jpg" />
 
       {/* <!-- Facebook Meta Tags --> */}
       <meta property="og:url" content="https://streams.radiant-gaming.com/" />
@@ -37,7 +37,7 @@ const App = ({ Component, pageProps }) => (
       <meta property="og:title" content="Streams - Radiant Gaming" />
       <meta
         property="og:description"
-        content="Watch multiple Twitch streams on your screen! 🙌"
+        content="Watch multiple Twitch streams on one page!"
       />
       <meta name="og:image" content="https://streams.radiant-gaming.com/assets/og-01.jpg" />
 
@@ -48,7 +48,7 @@ const App = ({ Component, pageProps }) => (
       <meta name="twitter:title" content="Streams - Radiant Gaming" />
       <meta
         name="twitter:description"
-        content="Watch multiple Twitch streams on your screen! 🙌"
+        content="Watch multiple Twitch streams on one page!"
       />
       <meta
         name="twitter:image"
