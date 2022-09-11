@@ -304,7 +304,7 @@ const Main = ({ params }) => {
             position: absolute;
             height: 100vh;
             min-width: 100%;
-            background: linear-gradient(70deg, #111, #47237d, #111, #42118c);
+            background: linear-gradient(70deg, #111, #7D7C23, #111, #838C11);
             background-size: 600% 600%;
             animation: gradient 20s ease infinite;
           }
