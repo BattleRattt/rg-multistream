@@ -97,9 +97,6 @@ const Main = ({ action, setStreamersList }) => {
               you prefer by accessing the left bar.
             </Text>
           </Box>
-          <Heading py="16px" size="sm" textAlign="center" as="h3">
-            Check out the top streamers right now!
-          </Heading>
         </VStack>
         <Footer />
       </Box>
