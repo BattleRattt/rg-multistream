@@ -26,28 +26,7 @@ const Main = () => (
       mt="5%"
     >
       <Stack spacing="10" divider={<StackDivider />}>
-        <Stack
-          direction={{ base: "column", lg: "row" }}
-          spacing={{ base: "10", lg: "28" }}
-        >
-          <Box flex="1">{/* <Logo /> */}</Box>
-          <Stack
-            direction={{ base: "column", md: "row" }}
-            spacing={{ base: "10", md: "20" }}
-          >
-            <LinkGrid spacing={{ base: "10", md: "20", lg: "28" }} flex="1" />
-            <SubscribeForm width={{ base: "full", md: "sm" }} />
-          </Stack>
-        </Stack>
-        Í
-        <Stack
-          direction={{ base: "column-reverse", md: "row" }}
-          justifyContent="space-between"
-          alignItems="center"
-        >
-          <Copyright />
-          <SocialMediaLinks />
-        </Stack>
+        
       </Stack>
     </Box>
   </Box>
