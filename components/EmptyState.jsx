@@ -75,9 +75,6 @@ const Main = ({ action, setStreamersList }) => {
             </Button>
           </Box>
           <Box textAlign="center" p="16px" bg="#44555555" borderRadius="8px">
-            <Heading pb="16px" fontSize={["xl"]}>
-              GG! Welcome to Multistream!
-            </Heading>
             <Text>
               You can use this free website to watch up to 6 Twitch streams at
               the same time, as long as your computer and bandwidth can handle
