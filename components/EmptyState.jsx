@@ -53,7 +53,7 @@ const Main = ({ action, setStreamersList }) => {
             p="16px"
             fontSize={["xl", "5xl"]}
           >
-            Watch multiple Twitch streams on one page.
+            Watch multiple Twitch streams on one page!
           </Heading>
           <Box pb="48px">
             <Button
