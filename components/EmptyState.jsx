@@ -76,14 +76,13 @@ const Main = ({ action, setStreamersList }) => {
           </Box>
           <Box textAlign="center" p="16px" bg="#44555555" borderRadius="8px">
             <Text>
-              You can use this free website to watch up to 6 Twitch streams at
+              Watch up to 6 Twitch streams at
               the same time, as long as your computer and bandwidth can handle
               it!
             </Text>
             <Text>
-              I’ve built it to watch tournaments without the need of arranging
-              multiple windows and to make it easy to share. I hope you’ll enjoy
-              it!
+              Watch tournaments without the need of arranging
+              multiple windows and to make it easy to share.
             </Text>
             <Heading as="h3" py="16px" fontSize={["lg"]}>
               How to use it
