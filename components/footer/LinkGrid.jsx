@@ -7,14 +7,14 @@ export const LinkGrid = (props) => (
     <Box minW="130px">
       <FooterHeading mb="4">Resources</FooterHeading>
       <Stack>
-//         <Link href="https://eft-ammo.com/">Escape From Tarkov Ammo Charts</Link>
+        <Link href="https://eft-ammo.com/">Escape From Tarkov Ammo Charts</Link>
       </Stack>
     </Box>
     <Box minW="130px">
-//       <FooterHeading mb="4">Legal</FooterHeading>
+      <FooterHeading mb="4">Legal</FooterHeading>
       <Stack>
-//         <Link href="/privacy-policy">Privacy</Link>
-//         <Link href="/terms-and-conditions">Terms</Link>
+        <Link href="/privacy-policy">Privacy</Link>
+        <Link href="/terms-and-conditions">Terms</Link>
       </Stack>
     </Box>
   </SimpleGrid>
