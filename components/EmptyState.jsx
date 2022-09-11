@@ -53,7 +53,7 @@ const Main = ({ action, setStreamersList }) => {
             p="16px"
             fontSize={["xl", "5xl"]}
           >
-            Watch multiple Twitch streams on Your Screen
+            Watch multiple Twitch streams on one page.
           </Heading>
           <Box pb="48px">
             <Button
@@ -100,16 +100,6 @@ const Main = ({ action, setStreamersList }) => {
           <Heading py="16px" size="sm" textAlign="center" as="h3">
             Check out the top streamers right now!
           </Heading>
-          {groups.map((group) => (
-            <Link
-              href={`https://streams.radiant-gaming.com/${group
-                .map((streamer) => streamer.user_login)
-                .join("/")}`}
-              style={{ textDecoration: "none" }}
-            >
-              <TrendingStreamers trendingStreamers={group} />
-            </Link>
-          ))}
         </VStack>
         <Footer />
       </Box>
